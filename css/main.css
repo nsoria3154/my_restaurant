@@ -1,0 +1,137 @@
+/*** sectioning elements ***/
+
+body {
+    font-family: 'Ravi Prakash', cursive;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 960px;
+    padding: 7px;
+    background-color:#ff6666;
+  }
+
+  h1 {
+    color:#ffffff;
+    font-size: 60px;
+    text-align: center;
+}
+
+header {
+
+}
+
+main {
+
+}
+
+footer {
+
+}
+
+nav {
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+
+h1 {
+
+}
+
+h2 {
+  color:#ffffff;
+  font-size: 60px;
+  text-align: center;
+
+}
+
+h3 {
+  color:#ffffff;
+  font-size: 60px;
+  text-align: center;
+
+}
+
+h4 {
+  color:#ffffff;
+  font-size: 60px;
+  text-align: center;
+
+}
+
+h5 {
+{
+
+h6 {
+
+}
+
+p {
+
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+table {
+
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+img  {
+
+}
+
+
+/*** link styles ***/
+
+a:link {
+
+}
+
+a:visited {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
